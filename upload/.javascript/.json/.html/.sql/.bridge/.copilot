@@ -1,0 +1,5 @@
+```/.Autotools
+'upload: react-native/ upload.rn'
+ 'into: https/github.com/ETEnterprises1/Bank-of-Montreal-N.a.'
+  'merge: "on upload.rn finish"
+```
